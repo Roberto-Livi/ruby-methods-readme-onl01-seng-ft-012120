@@ -3,3 +3,5 @@ def hello(phrase)
 end
 
 phrase = "Hello World"
+
+hello
