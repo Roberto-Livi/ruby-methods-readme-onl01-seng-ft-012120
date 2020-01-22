@@ -1,6 +1,6 @@
-def hello()
-  10.times(phrase)
+def hello
+  10.times("Hello World")
 end
 
 
-hello("Hello World")
+hello
