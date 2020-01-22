@@ -1,4 +1,4 @@
-def hello(phrase)
+def hello()
   10.times(phrase)
 end
 
